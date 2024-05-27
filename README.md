@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [IDURAR ERP CRM](https://idurarapp.com/demo/)
 
 - 📫 How to reach me **noorulameen544@gmail.com**
-  <img align="right" width="400" hight="200" alt="Coding" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
+  <img align="right" width="300" hight="200" alt="Coding" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
